@@ -40,7 +40,7 @@ Acesse o notebook principal na raiz do projeto.
 ## Conclusões finais
 O relatório estratégico com os gráficos, matrizes de risco e recomendações para a diretoria da Telecom X está disponível no link abaixo:
 
-[Acessar Relatório Final (PDF)](https://github.com/vanrpontes/challenge2-telecom_x/blob/main/relatorio/challenge2_telecom_x.pdf)
+[Acessar Relatório Final (PDF)](https://github.com/vanrpontes/challenge3-telecom_x_parte2/blob/main/relatorio/Challenge-3_Telecom_X-Relatorio_Modelo_de_Previsao_de_Perdas_Financeiras.pdf)
 
 Dados fornecidos pela Alura.
 Desenvolvido por Vanclercio da Rocha Pontes.
